@@ -1,0 +1,4 @@
+package com.template.activity.service;
+
+public interface IAttachmentService {
+}
